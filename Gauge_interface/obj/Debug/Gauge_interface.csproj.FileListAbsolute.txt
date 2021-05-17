@@ -1,0 +1,17 @@
+D:\Desktop\CS\Gauge_interface\bin\Debug\Gauge_interface.exe.config
+D:\Desktop\CS\Gauge_interface\bin\Debug\Gauge_interface.exe.manifest
+D:\Desktop\CS\Gauge_interface\bin\Debug\Gauge_interface.application
+D:\Desktop\CS\Gauge_interface\bin\Debug\Gauge_interface.exe
+D:\Desktop\CS\Gauge_interface\bin\Debug\Gauge_interface.pdb
+D:\Desktop\CS\Gauge_interface\obj\Debug\Gauge_interface.csprojAssemblyReference.cache
+D:\Desktop\CS\Gauge_interface\obj\Debug\Gauge_interface.Form1.resources
+D:\Desktop\CS\Gauge_interface\obj\Debug\Gauge_interface.Form2.resources
+D:\Desktop\CS\Gauge_interface\obj\Debug\Gauge_interface.Form3.resources
+D:\Desktop\CS\Gauge_interface\obj\Debug\Gauge_interface.Properties.Resources.resources
+D:\Desktop\CS\Gauge_interface\obj\Debug\Gauge_interface.csproj.GenerateResource.cache
+D:\Desktop\CS\Gauge_interface\obj\Debug\Gauge_interface.csproj.CoreCompileInputs.cache
+D:\Desktop\CS\Gauge_interface\obj\Debug\Gauge_interface.TrustInfo.xml
+D:\Desktop\CS\Gauge_interface\obj\Debug\Gauge_interface.exe.manifest
+D:\Desktop\CS\Gauge_interface\obj\Debug\Gauge_interface.application
+D:\Desktop\CS\Gauge_interface\obj\Debug\Gauge_interface.exe
+D:\Desktop\CS\Gauge_interface\obj\Debug\Gauge_interface.pdb
